@@ -1,10 +1,10 @@
 /*!
  * Start Bootstrap - Landing Page v5.0.7 (https://startbootstrap.com/template-overviews/landing-page)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
-body {
+ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -123,4 +123,52 @@ header.masthead h1 {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
+}
+
+/* Dan's Edits */
+
+img.brand-img {
+  max-height: 65px !important;
+}
+
+.bg-red{
+  background:#F3483C !important;
+}
+
+.features-icons-item {
+  color:#fff !important;
+}
+
+.hoo li {
+  font-size: 48px;
+  font-weight: 700;
+  list-style:none;
+}
+
+
+.hoo span {
+  font-weight: 100;
+  font-size: 3rem;
+}
+
+.contact-us h4 {
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+.contact-us-content span {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.contact-us-content {
+  padding: 5rem;
+}
+
+a.call-us {
+  font-size: 24px;
+}
+
+h1 span{
+  font-family:'galada';
 }
